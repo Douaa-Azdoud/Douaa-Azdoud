@@ -1,5 +1,5 @@
 
-<h3 align="center"><i>Hi, I'm Douaa</i></h3>
+<h2 align="center"><i>Hi, I'm Douaa</i></h2>
 
 ---
 
@@ -26,7 +26,7 @@ class CodedByDouaa:
 
 
 
-## Connect With Me
+<h2 align="center"><i>Hi, I'm Douaa</i></h2>
 
 ```txt
 GitHub : @CodedByDouaa
