@@ -1,5 +1,5 @@
-## Hey, I'm Douaa
-<h3 align="center">AI Engineering Student | Web Developer | Future AI Engineer</h3>
+<i>Hi, I'm Douaa</i>
+<h3 align="center"><i>AI Engineering Student | Web Developer | Future AI Engineer</i></h3>
 
 ---
 
