@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey, I'm Douaa
+class Douaa:
+    def __init__(self):
+        self.username = "CodedByDouaa"
+        self.role = "AI & Digital Transformation Engineering Student"
+        self.languages = ["Python", "Java", "C","HTML", "CSS", "PHP"] 
+        self.interests = ["AI", "Software Engineering", "Tech", "Problem Solving"]
+
+    def say_hi(self):
+        print("Thanks for visiting my profile !")
 
 <!--
 **Douaa-Azdoud/Douaa-Azdoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
