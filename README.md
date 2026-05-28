@@ -1,5 +1,4 @@
 ## Hey, I'm Douaa
-<h1 align="center">Hi, I'm Douaa</h1>
 <h3 align="center">AI Engineering Student | Web Developer | Future AI Engineer</h3>
 
 ---
@@ -49,6 +48,6 @@ GitHub : @CodedByDouaa
 ---
 
 <p align="center">
-  ✨ Building my future one line of code at a time ✨
+  Building my future one line of code at a time 
 </p>
 
